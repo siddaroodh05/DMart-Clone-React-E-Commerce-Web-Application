@@ -22,20 +22,6 @@ A fully functional DMart-style e‑commerce website built with React, featuring 
 - DummyJSON API (200+ products)  
 - React Hooks state management  
 
-## Project Structure
-
-D-mart-clone/
-├── node_modules/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Header/
-│   │   ├── HeaderListcontainer/
-│   │   ├── Homepage/
-│   │   ├── Product-section/
-│   │   ├── productdetails/
-│   │   ├── seachfunctionality/
-│   │   └── Sidebar/
 
 
 
